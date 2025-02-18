@@ -1,6 +1,6 @@
 # Ocean Temperature Forecasting
 
-# This project aims to forecast ocean temperatures using historical temperature data. We use two forecasting models: ARIMA (AutoRegressive Integrated Moving Average) and LSTM (Long Short-Term Memory). The analysis includes data preprocessing, visualization, and model evaluation.
+## This project aims to forecast ocean temperatures using historical temperature data. We use two forecasting models: ARIMA (AutoRegressive Integrated Moving Average) and LSTM (Long Short-Term Memory). The analysis includes data preprocessing, visualization, and model evaluation.
 
 # Dependencies
 R: Version 3.5 or higher
